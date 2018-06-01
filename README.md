@@ -1,4 +1,5 @@
 1. npm install
-2. npm run start-server
+2. npm run build
+3. npm run start-server
 
 
